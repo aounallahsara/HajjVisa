@@ -1,16 +1,25 @@
-# hajj_visa
+# Hajj Visa Application 🕋
 
-A new Flutter project.
+The Hajj Visa Application is a Flutter-based mobile application designed to simplify the visa application process for pilgrims traveling to Makkah.
 
-## Getting Started
+## 📌 Overview
+This application provides a structured and user-friendly form that allows users to enter and manage all required personal and travel information related to the Hajj visa process.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Multi-step visa application form
+- Easy and clear data entry
+- Clean and responsive user interface
+- Organized information flow for pilgrims
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
+- **Flutter**
+- **Dart**
+- **VS Code**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎯 Project Objective
+To practice Flutter development while building a real-world inspired application focused on form handling and user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Project Type
+Academic / personal Flutter project.
+
+---
